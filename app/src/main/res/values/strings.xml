@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="reg">Registered.</string>
+    <string name="logout">LOGOUT</string>
+</resources>
